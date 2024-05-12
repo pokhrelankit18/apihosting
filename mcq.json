@@ -1,0 +1,157 @@
+  {
+    "questions": [
+      {
+        "question": "Solve the following equation for x: 3x - 7 = 2x + 5.",
+        "options": ["10", "12", "8", "6"],
+        "correctOption": 1,
+        "points": 1
+      },
+      {
+        "question": "If f(x) = 2x^2 - 5x + 3, find f(3).",
+        "options": ["3", "9", "15", "21"],
+        "correctOption": 2,
+        "points": 1
+      },
+      {
+        "question": "What is the value of √144?",
+        "options": ["11", "12", "13", "14"],
+        "correctOption": 1,
+        "points": 1
+      },
+      {
+        "question": "If a triangle has angles measuring 30°, 60°, and 90°, and the side opposite the 30° angle is 5 units, what is the length of the side opposite the 60° angle?",
+        "options": ["5", "10", "15", "20"],
+        "correctOption": 2,
+        "points": 2
+      },
+      {
+        "question": "Evaluate: 3/4 × 5/6.",
+        "options": ["1/2", "5/8", "5/6", "15/24"],
+        "correctOption": 1,
+        "points": 1
+      },
+      {
+        "question": "Identify the noun clause in the following sentence: 'I wonder if she will come to the party.'",
+        "options": ["I wonder", "if she will come", "to the party", "if she will come to the party"],
+        "correctOption": 1,
+        "points": 2
+      },
+      {
+        "question": "Choose the correct sentence with proper subject-verb agreement.",
+        "options": [
+          "The team is playing well.",
+          "The team are playing well.",
+          "The team am playing well.",
+          "The team were playing well."
+        ],
+        "correctOption": 0,
+        "points": 2
+      },
+      {
+        "question": "Which word completes the sentence correctly: 'She is _______ intelligent girl.'",
+        "options": ["a", "an", "the", "none of the above"],
+        "correctOption": 1,
+        "points": 2
+      },
+      {
+        "question": "Identify the type of figurative language used in the phrase: 'The stars danced in the night sky.'",
+        "options": ["Simile", "Metaphor", "Personification", "Hyperbole"],
+        "correctOption": 2,
+        "points": 1
+      },
+      {
+        "question": "Correct the following sentence: 'He don't like to eat vegetables.'",
+        "options": ["He don't", "He does not", "He doesn't", "He not"],
+        "correctOption": 2,
+        "points": 1
+      },
+      {
+        "question": "What is the chemical formula for table salt?",
+        "options": ["NaCl", "H2O", "CO2", "O2"],
+        "correctOption": 0,
+        "points": 2
+      },
+      {
+        "question": "Which element has the chemical symbol 'O'?",
+        "options": ["Oxygen", "Osmium", "Oganesson", "Osmium"],
+        "correctOption": 0,
+        "points": 1
+      },
+          {
+            "question": "What is the chemical formula for ammonia?",
+            "options": ["NH4", "NH3", "N2H4", "NH2"],
+            "correctOption": 1,
+            "points": 2
+          },
+          {
+            "question": "What is the process of conversion of a solid directly into vapor called?",
+            "options": ["Sublimation", "Evaporation", "Condensation", "Melting"],
+            "correctOption": 0,
+            "points": 1
+          },
+          {
+            "question": "What is the SI unit of electric current?",
+            "options": ["Volt", "Ampere", "Ohm", "Watt"],
+            "correctOption": 1,
+            "points": 2
+          },
+          {
+            "question": "What is the name of the law stating that the total energy of an isolated system remains constant over time?",
+            "options": ["Law of Conservation of Energy", "Ohm's Law", "Boyle's Law", "Hooke's Law"],
+            "correctOption": 0,
+            "points": 1
+          },
+          {
+            "question": "What is the phenomenon where light bends as it passes from one medium to another?",
+            "options": ["Reflection", "Refraction", "Dispersion", "Interference"],
+            "correctOption": 1,
+            "points": 2
+          },{
+            "question": "What is the chemical symbol for gold?",
+            "options": ["Au", "Ag", "Fe", "Cu"],
+            "correctOption": 0,
+            "points": 1
+          },
+          {
+            "question": "Which of the following is a noble gas?",
+            "options": ["Oxygen", "Nitrogen", "Argon", "Hydrogen"],
+            "correctOption": 2,
+            "points": 1
+          },
+          {
+            "question": "What is the formula for the area of a rectangle?",
+            "options": ["A = πr^2", "A = lw", "A = 1/2bh", "A = s^2"],
+            "correctOption": 1,
+            "points": 1
+          },
+          {
+            "question": "In English grammar, what part of speech describes the action of a sentence?",
+            "options": ["Noun", "Verb", "Adjective", "Adverb"],
+            "correctOption": 1,
+            "points": 1
+          },
+          {
+            "question": "Which of the following is NOT a type of chemical bond?",
+            "options": ["Ionic", "Covalent", "Hydraulic", "Metallic"],
+            "correctOption": 2,
+            "points": 1
+          },{
+            "question": "A car accelerates from rest at a constant rate of 2 m/s^2 for 10 seconds. What is its final velocity?",
+            "options": ["20 m/s", "10 m/s", "15 m/s", "5 m/s"],
+            "correctOption": 0,
+            "points": 1
+          },
+          {
+            "question": "A block of mass 2 kg is placed on a frictionless inclined plane with an angle of 30 degrees to the horizontal. What is the acceleration of the block down the plane?",
+            "options": ["2 m/s^2", "3 m/s^2", "5 m/s^2", "10 m/s^2"],
+            "correctOption": 1,
+            "points": 2
+          },
+          {
+            "question": "A force F = 20 N is applied horizontally to a 5 kg block resting on a horizontal surface. If the coefficient of kinetic friction between the block and the surface is 0.4, what is the acceleration of the block?",
+            "options": ["2 m/s^2", "4 m/s^2", "6 m/s^2", "8 m/s^2"],
+            "correctOption": 2,
+            "points": 2
+          }
+  ]
+}
